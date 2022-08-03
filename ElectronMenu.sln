@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronMenu", "ElectronMenu\ElectronMenu.csproj", "{E98B7E04-E92E-4F0A-A797-8A2E003FED79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E98B7E04-E92E-4F0A-A797-8A2E003FED79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98B7E04-E92E-4F0A-A797-8A2E003FED79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E98B7E04-E92E-4F0A-A797-8A2E003FED79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E98B7E04-E92E-4F0A-A797-8A2E003FED79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BEDA66D-40B8-4306-8A0E-193DB0455DE9}
+	EndGlobalSection
+EndGlobal
